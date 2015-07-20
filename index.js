@@ -1,7 +1,7 @@
-//
-//
-// сюда звчем-то автор добавил bootstrap.js
-//
+/**
+ * Created by Mike on 19.07.2015.
+ */
+
 console.log("Index.js: 1");
 
 var bootstrap;
